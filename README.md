@@ -5,13 +5,13 @@
 2- [Technologies](#technologies)
 3- [Topics](#topics)
 
-#introduction
-	This project requires you to build a multi-section landing page, with a dynamically updating navigational menu based on the amount of 		content that is added to the page.
+## introduction
+This project requires you to build a multi-section landing page, with a dynamically updating navigational menu based on the amount of 		content that is added to the page.
   
-#technologies
+## technologies
   atom editor
  
-#topics
+## topics
   I used DOM, events, performance, add, toggle , remove content and the attributes. 
   
 
